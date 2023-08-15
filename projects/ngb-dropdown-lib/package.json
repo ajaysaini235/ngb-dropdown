@@ -1,9 +1,9 @@
 {
   "$schema": "../../node_modules/ng-packagr/package.schema.json",
   "name":"ngb-dropdown",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "license": "MIT",
-  "author": "Pradeep Terli",
+  "author": "Ajay",
   "description": "Angular Multiselct dropdown component library for Angular version 11, 10, 9,8,6,4 ",
   "keywords": [
     "angular 2 multiselect dropdown",
@@ -19,9 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CuppaLabs/ngb-dropdown"
-  },
-  "bugs": {
-    "url": "https://github.com/CuppaLabs/ngb-dropdown/issues"
+    "url": "https://github.com/ajaysaini235/ngb-dropdown"
   }
 }
