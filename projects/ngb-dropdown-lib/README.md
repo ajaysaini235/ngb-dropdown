@@ -5,6 +5,8 @@
 
 Angular multi select dropdown component for web applications. Easy to integrate and use.
 
+# Note !! 
+#####  Original sorce of this repository is - [CuppaLabs](https://github.com/CuppaLabs/angular2-multiselect-dropdown)
 
 # Important Notice !! 
 #####  From v3.0.0 onwards, you need to include `default.theme.css` file to get the basic styling of the dropdown. Refer to `themes and theming` section below
